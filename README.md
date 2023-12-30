@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeremyunoz
+- 👋 Hi, I’m Jianming Zheng (Jeremy)
 - 👀 I’m interested in participating in some projects that are beginner-friendly
 - 🌱 I’m currently learning c++ and Git
 - 📫 jianmiz1@uci.edu
