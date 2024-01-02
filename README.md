@@ -53,7 +53,7 @@
 <div align=center>
   <a href="https://git.io/streak-stats"><img width=390 height=170 src="https://streak-stats.demolab.com?user=jeremyunoz&theme=iceberg" alt="GitHub Streak" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jeremyunoz" &show_icons=true&theme=transparent /></a>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jeremyunoz&show_icons=true&theme=transparent" /></a>
   <br/>
   <img width=320 src="https://camo.githubusercontent.com/4549ecbc0710a44c7f317bacef431d3a2b133e33567021a2dccbf0aa32f30665/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyunoz&amp;layout=compact" style="max-width: 100%;">
 
