@@ -50,7 +50,10 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
+<div align="center"> 
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jeremyunoz&theme=dark&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+</div>
 
 <br/>
 
