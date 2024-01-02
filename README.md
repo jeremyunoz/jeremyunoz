@@ -52,7 +52,8 @@
 <br>
 <div align=center>
   <a href="https://git.io/streak-stats"><img width=390 height=170 src="https://streak-stats.demolab.com?user=jeremyunoz&theme=iceberg" alt="GitHub Streak" /></a>
-  <img width=390 src="https://camo.githubusercontent.com/e5c7aabefeaf1030721249ef22a336b99b88c7346e8f0fe86b592bb5e1a6576d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d74727565267469746c655f636f6c6f723d6666662669636f6e5f636f6c6f723d37396666393726746578745f636f6c6f723d3966396639662662675f636f6c6f723d313531353135" alt="Jianming Zheng's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api/?username=jeremyunoz&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width: 100%;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jeremyunoz" &theme=dark /></a>
   <br/>
   <img width=320 src="https://camo.githubusercontent.com/4549ecbc0710a44c7f317bacef431d3a2b133e33567021a2dccbf0aa32f30665/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyunoz&amp;layout=compact" style="max-width: 100%;">
 
