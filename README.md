@@ -50,17 +50,16 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center"> 
-    <a href="https://git.io/streak-stats"><img width=390 src="https://streak-stats.demolab.com?user=jeremyunoz&theme=dark&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
-    <a href="https://github.com/jeremyunoz/github-readme-stats">
-    <a href="https://github.com/jeremyunoz/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jeremyunoz&repo=github-readme-stats" /></a>
-    <br/>
-    <a href="https://github.com/jeremyunoz/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jeremyunoz" />
-</a>
-
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-jeremyunoz.vercel.app/?user=jeremyunoz&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-jeremyunoz.vercel.app/api?username=jeremyunoz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-jeremyunoz.vercel.app/api/top-langs/?username=jeremyunoz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+<br/><br/>
+
+<hr/>
 
 <br/>
 
