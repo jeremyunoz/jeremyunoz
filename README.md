@@ -50,9 +50,12 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-
 <div align="center"> 
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jeremyunoz&theme=dark&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img width=390 src="https://streak-stats.demolab.com?user=jeremyunoz&theme=dark&hide_border=true&border_radius=5&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
+    <a href="https://github.com/jeremyunoz/github-readme-stats"><img width=390 src="https://github-readme-stats-jeremyunoz.vercel.app/api?username=jeremyunoz&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /></a>
+    <br/>
+    <a href="https://github.com/jeremyunoz/github-readme-stats"><img width=325 align="center" src="https://github-readme-stats-jeremyunoz.vercel.app/api/top-langs/?username=jeremyunoz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
 </div>
 
 <br/>
