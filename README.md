@@ -39,7 +39,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>My Contributions</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jeremyunoz/jeremyunoz/output/github-contribution-grid-snake.svg" />
   
@@ -51,12 +51,15 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <a href="https://git.io/streak-stats"><img width=390 height=170 src="https://streak-stats.demolab.com?user=jeremyunoz&theme=iceberg" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img width=390 src="https://streak-stats.demolab.com?user=jeremyunoz&theme=iceberg" alt="GitHub Streak" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=jeremyunoz&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only" /></a>
-  <br/>
-  <img width=320 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyunoz&langs_count=6&layout=compact">
+<br/><br/>
 
+<h2 align="center">👨‍💻 Languages 👨‍💻</h2>
+<br>
+<div align=center>
+  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyunoz&langs_count=6&layout=compact">
 <br/><br/>
 
 <hr/>
