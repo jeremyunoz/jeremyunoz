@@ -12,7 +12,7 @@
  
 👨‍💻 Enjoying coding!
  
-🌱 I’m currently learning **Java**
+🌱 I’m currently looking for an internship in **software engineering or any relevant jobs**
 
  </div>
 
