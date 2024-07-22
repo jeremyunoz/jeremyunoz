@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jianming+Zheng!;" />
 </h1>
 
-<h3 align="center">A second-year Computer Science & Engineering student at UCI</h3>
+<h3 align="center">A third-year Computer Science & Engineering student at UCI</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
 👨‍💻 Enjoying coding!
  
-🌱 I’m currently looking for an internship in **software engineering or any relevant jobs**
+🌱 I’m currently looking for an internship in **Software Engineering or any relevant jobs**
 
  </div>
 
