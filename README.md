@@ -12,7 +12,7 @@
  
 👨‍💻 Enjoying coding!
  
-🌱 I’m currently looking for an internship in **Software Engineering or any relevant jobs**
+🌱 I’m currently looking for an internship in **Embedded Software Engineering/Firmware Engineering/any relevant jobs**
 
  </div>
 
