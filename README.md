@@ -31,8 +31,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,gitlab,idea" />
-    <img src="https://skillicons.dev/icons?i=py,cpp,java" /><br>
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,java,html,css" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,idea,github,git,gitlab,arduino" />
+    <img src="https://skillicons.dev/icons?i=linux" /><br>
+    <img src="https://skillicons.dev/icons?i=notion" /><br>
 </div>
 
 <br/>
