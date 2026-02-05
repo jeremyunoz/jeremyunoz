@@ -45,22 +45,9 @@
 
 ---
 
-## 🐍 My Contributions
+## My Contributions
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/jeremyunoz/jeremyunoz/output/github-contribution-grid-snake.svg)
 
 ---
 
-## ⚡ GitHub Stats ⚡
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeremyunoz&theme=iceberg)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeremyunoz&show_icons=true&theme=iceberg)
-
----
-
-## 👨‍💻 Languages 👨‍💻
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeremyunoz&langs_count=6&layout=compact&theme=iceberg)
-
----
