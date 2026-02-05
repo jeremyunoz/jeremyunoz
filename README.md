@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jianming+Zheng!;" />
 </h1>
 
-<h3 align="center">An incoming 4th year Computer Science & Engineering student at UC Irvine</h3>
+<h3 align="center">Computer Science & Engineering student at UC Irvine</h3>
 
 <br/>
 
@@ -50,13 +50,16 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <a href="https://git.io/streak-stats"><img width=390 src="https://streak-stats.demolab.com?user=jeremyunoz&theme=iceberg" alt="GitHub Streak" /></a>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img width="390" src="https://streak-stats.demolab.com?user=jeremyunoz&theme=iceberg" alt="GitHub Streak Stats" />
+  </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=jeremyunoz&amp;show_icons=true&amp;theme=dark#gh-dark-mode-only" /></a>
-<br/><br/>
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=jeremyunoz&show_icons=true&theme=iceberg" alt="GitHub Stats" />
+  </a>
+</p>
 
 <h2 align="center">👨‍💻 Languages 👨‍💻</h2>
 <br>
