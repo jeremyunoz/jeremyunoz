@@ -1,65 +1,66 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jeremyunoz.jeremyunoz" />
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jeremyunoz.jeremyunoz)
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jianming+Zheng!;" />
-</h1>
+# 👋 Hi There! I'm Jianming Zheng!
 
-<h3 align="center">Computer Science & Engineering student at UC Irvine</h3>
+### Computer Science & Engineering student at UC Irvine
 
-<br/>
+---
 
-<div align="center">
- 
-👨‍💻 Enjoying coding!
- 
-🌱 I’m currently looking for an internship in **Embedded Software Engineering/Firmware Engineering/any relevant jobs**
+👨‍💻 Enjoying coding  
 
- </div>
+🌱 Currently looking for an internship in **Embedded Software Engineering, Firmware Engineering, or related roles**
 
-<div align="center"> 
-  <a href="mailto:jianmiz1@uci.edu">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/jeremy-zheng-a207aa278/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+---
+
+### 📫 Connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jianmiz1@uci.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-zheng-a207aa278/)
+
+---
+
+## ⚒️ Languages, Frameworks, and Tools ⚒️
+
+**Languages**
   
-</div>
+![Python](https://skillicons.dev/icons?i=py)
+![C++](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=c)
+![Java](https://skillicons.dev/icons?i=java)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
 
-  <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,java,html,css" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,clion,idea,github,git,gitlab,arduino" /><br>
-    <img src="https://skillicons.dev/icons?i=linux" /><br>
-    <img src="https://skillicons.dev/icons?i=notion" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>My Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jeremyunoz/jeremyunoz/output/github-contribution-grid-snake.svg" />
+**Tools and Platforms**
   
-  <br/><br/><br/>
-</div>
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![PyCharm](https://skillicons.dev/icons?i=pycharm)
+![CLion](https://skillicons.dev/icons?i=clion)
+![IntelliJ](https://skillicons.dev/icons?i=idea)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Git](https://skillicons.dev/icons?i=git)
+![GitLab](https://skillicons.dev/icons?i=gitlab)
+![Arduino](https://skillicons.dev/icons?i=arduino)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Notion](https://skillicons.dev/icons?i=notion)
 
-<hr/>
+---
+
+## 🐍 My Contributions
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/jeremyunoz/jeremyunoz/output/github-contribution-grid-snake.svg)
+
+---
 
 ## ⚡ GitHub Stats ⚡
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeremyunoz&theme=iceberg)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremyunoz&show_icons=true&theme=iceberg)
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jeremyunoz&show_icons=true&theme=iceberg)
+
+---
 
 ## 👨‍💻 Languages 👨‍💻
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyunoz&langs_count=6&layout=compact&theme=iceberg)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jeremyunoz&langs_count=6&layout=compact&theme=iceberg)
 
-<hr/>
-
-<br/>
-
+---
