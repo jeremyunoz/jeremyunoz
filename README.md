@@ -54,18 +54,18 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img width="390" src="https://streak-stats.demolab.com?user=jeremyunoz&theme=iceberg" alt="GitHub Streak Stats" />
+    <img width="390" src="https://streak-stats.demolab.com?user=jeremyunoz&amp;theme=iceberg" alt="GitHub Streak Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=jeremyunoz&show_icons=true&theme=iceberg" alt="GitHub Stats" />
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=jeremyunoz&amp;show_icons=true&amp;theme=iceberg" alt="GitHub Stats" />
   </a>
 </p>
 
 <h2 align="center">👨‍💻 Languages 👨‍💻</h2>
-<br>
-<div align=center>
-  <img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyunoz&langs_count=6&layout=compact">
-<br/><br/>
+
+<p align="center">
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyunoz&amp;langs_count=6&amp;layout=compact&amp;theme=iceberg" alt="Top Languages" />
+</p>
 
 <hr/>
 
