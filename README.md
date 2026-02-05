@@ -52,20 +52,15 @@
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img width="390" src="https://streak-stats.demolab.com?user=jeremyunoz&amp;theme=iceberg" alt="GitHub Streak Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=jeremyunoz&amp;show_icons=true&amp;theme=iceberg" alt="GitHub Stats" />
-  </a>
-</p>
+## ⚡ GitHub Stats ⚡
 
-<h2 align="center">👨‍💻 Languages 👨‍💻</h2>
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeremyunoz&theme=iceberg)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeremyunoz&show_icons=true&theme=iceberg)
 
-<p align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyunoz&amp;langs_count=6&amp;layout=compact&amp;theme=iceberg" alt="Top Languages" />
-</p>
+## 👨‍💻 Languages 👨‍💻
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyunoz&langs_count=6&layout=compact&theme=iceberg)
+
 
 <hr/>
 
