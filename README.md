@@ -50,8 +50,6 @@
 
 <hr/>
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-
 ## ⚡ GitHub Stats ⚡
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jeremyunoz&theme=iceberg)](https://git.io/streak-stats)
@@ -60,7 +58,6 @@
 ## 👨‍💻 Languages 👨‍💻
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyunoz&langs_count=6&layout=compact&theme=iceberg)
-
 
 <hr/>
 
