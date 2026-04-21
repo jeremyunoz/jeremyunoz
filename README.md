@@ -31,7 +31,7 @@ I am passionate about building reliable systems that connect software, hardware,
 ### Embedded and Systems
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,cmake,arduino" />
+    <img src="https://skillicons.dev/icons?i=linux,cmake,arduino&theme=light" />
   </a>
 </p>
 
@@ -42,7 +42,7 @@ I am passionate about building reliable systems that connect software, hardware,
 ### AI and Vision
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=light" />
   </a>
 </p>
 
@@ -53,14 +53,14 @@ I am passionate about building reliable systems that connect software, hardware,
 ### Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,idea,clion,aws,notion,latex" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,idea,clion,aws,notion,latex&theme=light" />
   </a>
 </p>
 
 ### Others (for fun)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=light" />
   </a>
 </p>
 
@@ -76,10 +76,10 @@ A health focused application that connects software, user experience, and practi
 
 <p align="left">
   <a href="mailto:jianmiz1@uci.edu">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/jeremy-zheng-a207aa278/">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40"/>
   </a>
 </p>
 
