@@ -71,11 +71,11 @@ An embedded desktop wellness companion that combines sensors, cloud connectivity
 A health focused application that connects software, user experience, and practical wellness tracking.
 
 ## Let's Connect!
-
 <p align="left">
   <a href="mailto:jianmiz1@uci.edu">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/jeremy-zheng-a207aa278/">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40"/>
   </a>
