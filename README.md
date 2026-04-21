@@ -1,6 +1,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jeremyunoz.jeremyunoz)
 
-# Hi, I'm Jeremy Zheng
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=2000&color=14BDF7&background=389EFF00&vCenter=true&repeat=true&width=500&lines=Hi%2C+I'm+Jeremy+Zheng" style="vertical-align: middle;" />
 
 ### Embedded Software, Firmware, and Edge AI Engineer
 
@@ -22,66 +23,50 @@ I am passionate about building reliable systems that connect software, hardware,
 ## ⚒️ Tech Stack
 
 ### Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,py" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,py" />
+</a>
 
-### Embedded and Systems
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,cmake,arduino&theme=light" />
-  </a>
-</p>
+### Embedded Systems
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,cmake,arduino&theme=light" />
+</a>
 
-<p align="center">
-  ESP32 · FreeRTOS · UART · I2C · SPI · PWM · MQTT · TCP/IP
-</p>
+**Also:** ESP32 · FreeRTOS · UART · I2C · SPI · PWM · MQTT · TCP/IP
 
 ### AI and Vision
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=light" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=light" />
+</a>
 
-<p align="center">
-  YOLO
-</p>
+**Also:** YOLO
 
 ### Development Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,clion,aws" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gitlab,idea,notion,latex" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,clion,aws" />
+</a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=gitlab,idea,notion,latex" />
+</a>
 
 ## Featured Projects
 
-### AuraBot
+### AuraBot 🤖
 An embedded desktop wellness companion that combines sensors, cloud connectivity, and AI-driven tips for health related monitoring.
 
-### ZotFitness
+### ZotFitness 💪
 A health focused application that connects software, user experience, and practical wellness tracking.
 
 ## Let's Connect!
 <p align="left">
   <a href="https://www.linkedin.com/in/jeremy-zheng-a207aa278">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="30"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="36"/>
   </a>
-  <span> linkedin.com/in/jeremy-zheng-a207aa278</span>
   <br/>
 
   <a href="mailto:jmzheng688@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="30"/>
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="36"/>
   </a>
-  <span> jmzheng688@gmail.com</span>
 </p>
   
 
