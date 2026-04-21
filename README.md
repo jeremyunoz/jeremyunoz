@@ -57,7 +57,9 @@ I am passionate about building reliable systems that connect software, hardware,
   </a>
 </p>
 <p align="center">
-  GitLab · IntelliJ · Notion · LaTeX
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gitlab,idea,notion,latex" />
+  </a>
 </p>
 
 ## Featured Projects
