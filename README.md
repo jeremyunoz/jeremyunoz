@@ -1,53 +1,54 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jeremyunoz.jeremyunoz)
 
-# 👋 Hi There! I'm Jianming Zheng!
+# Hi, I'm Jeremy Zheng
 
-### Computer Science & Engineering student at UC Irvine
+### Embedded Software, Firmware, and Edge AI Engineer
 
----
+I build software for intelligent systems, with a focus on embedded devices, sensor driven applications, real time systems, and edge AI.
 
-👨‍💻 Enjoying coding  
+Incoming graduate student at **Georgia Tech**, studying **Computational Science and Engineering**.  
+Previously studied **Computer Science and Engineering at UC Irvine**.
 
-🌱 Currently looking for an internship in **Embedded Software Engineering, Firmware Engineering, or related roles**
+## About Me
 
----
+I am passionate about building reliable systems that connect software, hardware, and intelligence in the real world. My interests include embedded software, firmware development, IoT, robotics, and edge ML deployment.
 
-### 📫 Connect with me
+## Current Focus
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jianmiz1@uci.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-zheng-a207aa278/)
+🌱 Building projects in embedded systems, firmware, and intelligent devices  
+🔧 Exploring Rust, systems programming, and low level software  
+🎯 Seeking opportunities in embedded software engineering, firmware engineering, and edge AI systems
 
----
+## Tech Stack
 
-## ⚒️ Languages, Frameworks, and Tools ⚒️
+**Languages**  
+C, C++, Rust, Python
 
-**Languages**
-  
-![Python](https://skillicons.dev/icons?i=py)
-![C++](https://skillicons.dev/icons?i=cpp)
-![C](https://skillicons.dev/icons?i=c)
-![Java](https://skillicons.dev/icons?i=java)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
+**Embedded and Systems**  
+ESP32, FreeRTOS, Embedded Linux, UART, I2C, SPI, PWM, MQTT, TCP/IP
 
-**Tools and Platforms**
-  
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![PyCharm](https://skillicons.dev/icons?i=pycharm)
-![CLion](https://skillicons.dev/icons?i=clion)
-![IntelliJ](https://skillicons.dev/icons?i=idea)
-![GitHub](https://skillicons.dev/icons?i=github)
-![Git](https://skillicons.dev/icons?i=git)
-![GitLab](https://skillicons.dev/icons?i=gitlab)
-![Arduino](https://skillicons.dev/icons?i=arduino)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Notion](https://skillicons.dev/icons?i=notion)
+**AI and Vision**  
+PyTorch, TensorFlow Lite, YOLO, OpenCV
 
----
+**Tools**  
+Git, GitHub, Linux, VS Code, CMake, AWS
 
-## My Contributions
+## Featured Projects
+
+### AuraBot
+An embedded wellness companion that combines sensors, cloud connectivity, and AI driven recommendations for health related monitoring.
+
+### TypeFly
+A drone task planning system that integrates LLM based planning, computer vision, and real time control for autonomous robotics workflows.
+
+### ZotFitness
+A health focused application that connects software, user experience, and practical wellness tracking.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/jeremy-zheng-a207aa278/)  
+[Email](mailto:jianmiz1@uci.edu)
+
+## GitHub Activity
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/jeremyunoz/jeremyunoz/output/github-contribution-grid-snake.svg)
-
----
-
