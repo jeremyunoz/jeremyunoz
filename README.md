@@ -22,28 +22,43 @@ I am passionate about building reliable systems that connect software, hardware,
 ## ⚒️ Tech Stack
 
 ### Languages
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,py" />
+  </a>
+</p>
 
 ### Embedded and Systems
-
-[![My Skills](https://skillicons.dev/icons?i=linux,cmake,arduino)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,cmake,arduino" />
+  </a>
+</p>
 
 **Also:** ESP32, FreeRTOS, UART, I2C, SPI, PWM, MQTT, TCP/IP
 
 ### AI and Vision
-
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  </a>
+</p>
 
 **Also:** YOLO
 
 ### Tools
-
-[![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,vscode,idea,clion,aws,notion,latex)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,idea,clion,aws,notion,latex" />
+  </a>
+</p>
 
 ### Others
-
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css" />
+  </a>
+</p>
 
 ## Featured Projects
 
@@ -59,7 +74,6 @@ A health focused application that connects software, user experience, and practi
   <a href="mailto:jianmiz1@uci.edu">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  <br/>
   <a href="https://www.linkedin.com/in/jeremy-zheng-a207aa278/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
