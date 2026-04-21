@@ -23,15 +23,8 @@ I am passionate about building reliable systems that connect software, hardware,
 
 ### Languages
 
-<p align="left">
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py)](https://skillicons.dev)
 
-  <a href="https://skillicons.dev">
-
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,py" />
-
-  </a>
-
-</p>
 
 ### Embedded and Systems
 
