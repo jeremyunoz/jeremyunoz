@@ -23,74 +23,83 @@ I am passionate about building reliable systems that connect software, hardware,
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-333333?style=for-the-badge&logo=c&logoColor=A8B9CC)
+<p align="left">
 
-![C++](https://img.shields.io/badge/C%2B%2B-333333?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+  <a href="https://skillicons.dev">
 
-![Rust](https://img.shields.io/badge/Rust-333333?style=for-the-badge&logo=rust&logoColor=white)
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,py" />
 
-![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python&logoColor=3776AB)
+  </a>
+
+</p>
 
 ### Embedded and Systems
 
-![ESP32](https://img.shields.io/badge/ESP32-333333?style=for-the-badge&logo=esphome&logoColor=white)
+<p align="left">
 
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-333333?style=for-the-badge&logo=freertos&logoColor=white)
+  <a href="https://skillicons.dev">
 
-![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-333333?style=for-the-badge&logo=linux&logoColor=FCC624)
+    <img src="https://skillicons.dev/icons?i=linux,cmake,arduino" />
 
-![UART](https://img.shields.io/badge/UART-333333?style=for-the-badge)
+  </a>
 
-![I2C](https://img.shields.io/badge/I2C-333333?style=for-the-badge)
+</p>
 
-![SPI](https://img.shields.io/badge/SPI-333333?style=for-the-badge)
-
-![PWM](https://img.shields.io/badge/PWM-333333?style=for-the-badge)
-
-![MQTT](https://img.shields.io/badge/MQTT-333333?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-333333?style=for-the-badge)
+**Also:** ESP32, FreeRTOS, UART, I2C, SPI, PWM, MQTT, TCP/IP
 
 ### AI and Vision
 
-![PyTorch](https://img.shields.io/badge/PyTorch-333333?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+<p align="left">
 
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-333333?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+  <a href="https://skillicons.dev">
 
-![YOLO](https://img.shields.io/badge/YOLO-333333?style=for-the-badge)
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
-![OpenCV](https://img.shields.io/badge/OpenCV-333333?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+  </a>
+
+</p>
+
+**Also:** YOLO
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=F05032)
+<p align="left">
 
-![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
+  <a href="https://skillicons.dev">
 
-![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=FCC624)
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
 
-![VS Code](https://img.shields.io/badge/VS%20Code-333333?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+  </a>
 
-![CMake](https://img.shields.io/badge/CMake-333333?style=for-the-badge&logo=cmake&logoColor=064F8C)
+</p>
 
-![AWS](https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
 
 ## Featured Projects
 
 ### AuraBot
-An embedded wellness companion that combines sensors, cloud connectivity, and AI driven recommendations for health related monitoring.
-
-### TypeFly
-A drone task planning system that integrates LLM based planning, computer vision, and real time control for autonomous robotics workflows.
+An embedded desktop wellness companion that combines sensors, cloud connectivity, and AI-driven tips for health related monitoring.
 
 ### ZotFitness
 A health focused application that connects software, user experience, and practical wellness tracking.
 
 ## Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:jmzheng688@gmail.com)
+<p align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jeremy-zheng-a207aa278/)
+  <a href="mailto:jianmiz1@uci.edu">
+
+    <img src="https://skillicons.dev/icons?i=gmail" />
+
+  </a>
+
+  <a href="https://www.linkedin.com/in/jeremy-zheng-a207aa278/">
+
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+
+  </a>
+
+</p>
 
 ## GitHub Activity
 
