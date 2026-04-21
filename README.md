@@ -72,11 +72,11 @@ A health focused application that connects software, user experience, and practi
 
 ## Let's Connect!
 <p align="left">
-  <a href="mailto:jianmiz1@uci.edu">
+  <a href="mailto:jmzheng688@gmail.com" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/jeremy-zheng-a207aa278/">
+  <a href="https://www.linkedin.com/in/jeremy-zheng-a207aa278/" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40"/>
   </a>
 </p>
