@@ -39,7 +39,11 @@ I am passionate about building reliable systems that connect software, hardware,
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,vscode,idea,clion,aws,notion,latex)](https://skillicons.dev)
+
+### Others
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)
 
 ## Featured Projects
 
@@ -55,6 +59,7 @@ A health focused application that connects software, user experience, and practi
   <a href="mailto:jianmiz1@uci.edu">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
+  <br/>
   <a href="https://www.linkedin.com/in/jeremy-zheng-a207aa278/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
