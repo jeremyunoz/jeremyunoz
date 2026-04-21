@@ -35,7 +35,9 @@ I am passionate about building reliable systems that connect software, hardware,
   </a>
 </p>
 
-**Also:** ESP32, FreeRTOS, UART, I2C, SPI, PWM, MQTT, TCP/IP
+<p align="center">
+  ESP32 · FreeRTOS · UART · I2C · SPI · PWM · MQTT · TCP/IP
+</p>
 
 ### AI and Vision
 <p align="center">
@@ -44,7 +46,9 @@ I am passionate about building reliable systems that connect software, hardware,
   </a>
 </p>
 
-**Also:** YOLO
+<p align="center">
+  YOLO
+</p>
 
 ### Tools
 <p align="center">
@@ -53,7 +57,7 @@ I am passionate about building reliable systems that connect software, hardware,
   </a>
 </p>
 
-### Others
+### Others (for fun)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,html,css" />
