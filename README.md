@@ -25,48 +25,21 @@ I am passionate about building reliable systems that connect software, hardware,
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,py)](https://skillicons.dev)
 
-
 ### Embedded and Systems
 
-<p align="left">
-
-  <a href="https://skillicons.dev">
-
-    <img src="https://skillicons.dev/icons?i=linux,cmake,arduino" />
-
-  </a>
-
-</p>
+[![My Skills](https://skillicons.dev/icons?i=linux,cmake,arduino)](https://skillicons.dev)
 
 **Also:** ESP32, FreeRTOS, UART, I2C, SPI, PWM, MQTT, TCP/IP
 
 ### AI and Vision
 
-<p align="left">
-
-  <a href="https://skillicons.dev">
-
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-
-  </a>
-
-</p>
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv)](https://skillicons.dev)
 
 **Also:** YOLO
 
 ### Tools
 
-<p align="left">
-
-  <a href="https://skillicons.dev">
-
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,aws" />
-
-  </a>
-
-</p>
-
-
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,aws)](https://skillicons.dev)
 
 ## Featured Projects
 
@@ -76,22 +49,15 @@ An embedded desktop wellness companion that combines sensors, cloud connectivity
 ### ZotFitness
 A health focused application that connects software, user experience, and practical wellness tracking.
 
-## Connect
+## Let's Connect!
 
 <p align="left">
-
   <a href="mailto:jianmiz1@uci.edu">
-
-    <img src="https://skillicons.dev/icons?i=gmail" />
-
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-
   <a href="https://www.linkedin.com/in/jeremy-zheng-a207aa278/">
-
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-
 </p>
 
 ## GitHub Activity
