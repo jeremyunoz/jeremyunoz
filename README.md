@@ -72,16 +72,15 @@ A health focused application that connects software, user experience, and practi
 
 ## Let's Connect!
 <p align="left">
+  <a href="https://www.linkedin.com/in/jeremy-zheng-a207aa278" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40"/>
+  </a>
+
   <a href="mailto:jmzheng688@gmail.com" style="text-decoration: none;">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40"/>
   </a>
 </p>
-<p align="left">
-  <a href="https://www.linkedin.com/in/jeremy-zheng-a207aa278/" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40"/>
-  </a>
-</p>
+  
 
 ## GitHub Activity
-
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/jeremyunoz/jeremyunoz/output/github-contribution-grid-snake.svg)
