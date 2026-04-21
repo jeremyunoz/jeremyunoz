@@ -50,18 +50,14 @@ I am passionate about building reliable systems that connect software, hardware,
   YOLO
 </p>
 
-### Tools
+### Development Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,vscode,idea,clion,aws,notion,latex&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,clion,aws" />
   </a>
 </p>
-
-### Others (for fun)
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=light" />
-  </a>
+  GitLab · IntelliJ · Notion · LaTeX
 </p>
 
 ## Featured Projects
